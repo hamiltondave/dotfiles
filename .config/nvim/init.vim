@@ -19,6 +19,7 @@ nnoremap <C-n> :NERDTreeToggle<CR>
 
 call plug#begin('~/.vim/plugged')
 
+Plug 'chrisbra/unicode.vim'
 Plug 'itchyny/lightline.vim'
 Plug 'junegunn/fzf.vim'
 Plug 'ludovicchabant/vim-gutentags'
