@@ -22,7 +22,7 @@ call plug#begin('~/.vim/plugged')
 Plug 'chrisbra/unicode.vim'
 Plug 'itchyny/lightline.vim'
 Plug 'junegunn/fzf.vim'
-Plug 'ludovicchabant/vim-gutentags'
+" Plug 'ludovicchabant/vim-gutentags'
 " Plug 'mhinz/vim-signify'
 Plug 'moll/vim-bbye'
 Plug 'neomake/neomake'
