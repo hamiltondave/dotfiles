@@ -1,0 +1,10 @@
+theme = "everforest_dark"
+
+[editor]
+auto-pairs = false
+
+[editor.cursor-shape]
+insert = "bar"
+
+[keys.insert]
+k = { j = "normal_mode" }
